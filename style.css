@@ -1,0 +1,47 @@
+.navbar{
+    background-color: black;
+}
+.navbar .nav-item .nav-link{
+    color: white;
+    border-radius: 3px;
+}
+.navbar-toggler{
+    background-color: white;
+}
+.navbar-toggler:hover{
+    background-color: #F7BD0C;
+}
+.navbar .nav-item .nav-link:hover{
+    color: #F7BD0C;
+    text-decoration: underline;
+}
+.navbar-brand{
+    letter-spacing: 2px;
+}
+.roboto{
+    font-family: Roboto, sans-serif;
+}
+.merry{
+    font-family: Merriweather, serif;
+}
+.landing-page-top{
+    background-image: url(/images/theater-image-background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+    min-height: 80vh;
+    background-attachment: fixed;
+}
+.text-shadow{
+    text-shadow: 2px 2px 3px rgb(0,0,0);
+}
+footer{
+    background-color: black;
+}
+i{
+    color: #F7BD0C;
+}
+p{
+    padding-bottom: 15px;
+}
